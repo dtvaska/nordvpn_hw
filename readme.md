@@ -30,3 +30,6 @@ Dashboard can be found here: https://lookerstudio.google.com/reporting/20e2345f-
 ## Recommendations
 - Although all sources have similar reputation mismatches the actual numer of 56-57% seems high and would suggest that further investigation and possibles switch to different sources may be needed. It would also be good to investigate if we can combine reputation data from different sources to get more accurate data as well as less missing data.
 - Load times seems similar but this analysis does not really show the true impact of these load times on our systems as well as impact on customer experience. Further analysis is needed for this.
+
+## Bonus task
+- To enrich URLs and fill missing data we can use services such as whois lookup, but I could not get the code to work just right as such did not include it in the final project. :(
